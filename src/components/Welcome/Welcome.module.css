@@ -1,0 +1,24 @@
+.main {
+    background-image: linear-gradient(to bottom right, #00f, #0ff);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+.h3{
+    margin-top: 18%;
+    color: rgb(37, 37, 240);
+    font-size: 150px;
+}
+.h2{
+    color: rgb(37, 37, 240);
+    font-size: 80px;
+    margin-top: 32%;
+    margin-right: 5%;
+}
+.Button{
+    margin-top: 34%;
+    background-color: rgb(20, 20, 236);
+    color: rgb(223, 223, 243);
+}

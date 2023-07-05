@@ -1,0 +1,82 @@
+.card {
+    background-color: rgb(255,255,255);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 80%;
+    height: 9%;
+    margin: 2px auto;
+    position: relative;
+    border-radius: 10px;
+
+  }
+  .strip {
+    position: absolute;
+    width: 4px;
+    height: 108px;
+    background-color: green;
+    border-radius: 5px;
+    left: 0px;
+    top: 0;
+}
+  h2{
+  
+    margin: 0;
+  }
+  h3{
+      margin: 0;
+    }
+
+  .title {
+    font-size: 24px;
+    margin-bottom: 5px;
+    color: rgb(53, 50, 50);
+
+  }
+  
+  .subtitle {
+    font-size: 18px;    
+    color: rgb(162,166,168);
+    margin-bottom: 5px;
+  }
+  
+  .all-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .button-inprogress {
+    background-color: #1a0cdd;
+    color: #f4f5f8;
+    border-radius: 4px;
+    padding: 2px 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+  }
+
+  
+  button {
+    background-color: #105003;
+    color: #e3f3e2;
+    border-radius: 4px;
+    padding: 2px 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+  }
+
+  .editBtn{
+    color: purple;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+  .deleteBtn{
+    color: red;
+    cursor: pointer;
+
+  }
+  
+
+  

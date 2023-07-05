@@ -1,0 +1,36 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color:  rgb(78, 78, 248);
+}
+.forms{
+    height: 70vh;
+    width: 25vw;
+    background-color: rgb(201, 215, 245);
+    margin-top: 5%;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.heading{
+    text-align: center;
+}
+.form_item{
+    margin-left: 20px;
+    height: 10vh;
+
+}
+.btnmain{
+    display: flex;
+    justify-content:space-around;
+}
+.err{
+    color: red;
+}
+.btn{
+    margin-top:10px
+}
+.link{
+    margin-top: 12px;
+}
